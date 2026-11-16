@@ -1,0 +1,20 @@
+{
+  "name": "particle-logo-canvas",
+  "version": "1.0.0",
+  "description": "Zero-dependency HTML5 2D Canvas particle logo animation micro-runtime. Companion open-source demo for particlelogo.com.",
+  "type": "module",
+  "main": "./particle-logo.js",
+  "exports": {
+    ".": "./particle-logo.js"
+  },
+  "keywords": [
+    "particle-animation",
+    "logo-animation",
+    "canvas-2d",
+    "svg-particles",
+    "zero-dependency",
+    "loading-animation"
+  ],
+  "homepage": "https://particlelogo.com",
+  "license": "MIT"
+}
